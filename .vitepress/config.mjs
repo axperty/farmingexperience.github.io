@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 export default defineConfig({
-  srcExclude: ['farmingexperience.github.io/**'],
+  base: '/farmingexperience/',
+  srcExclude: ['farmingexperience.github.io/**', 'axperty.github.io/**'],
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
@@ -15,11 +16,11 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#5A821E' }],
     ['meta', { property: 'og:title', content: 'Farming Experience' }],
     ['meta', { property: 'og:description', content: 'Farming Experience is an adventure and farming based modpack that enhances vanilla Minecraft.' }],
-    ['meta', { property: 'og:image', content: 'https://farmingexperience.github.io/assets/farmingexperience_1.png' }],
+    ['meta', { property: 'og:image', content: 'https://axperty.github.io/farmingexperience/assets/farmingexperience_1.png' }],
     ['meta', { name: 'twitter:card', content: 'summary' }]
   ],
   sitemap: {
-    hostname: 'https://farmingexperience.github.io/'
+    hostname: 'https://axperty.github.io/farmingexperience/'
   },
   themeConfig: {
     search: {
