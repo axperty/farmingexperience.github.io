@@ -1,3 +1,8 @@
+# Create a Server
+
+Yeah, you might be here because the link is kinda broken, here's the new wiki! [How to Create a Server](https://axperty.github.io/farmingexperience/wiki/create_a_server.html)
+This will be fixed soon, sorry!
+
 # Farming Experience
 
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1104566?style=flat&logo=curseforge&logoColor=%23F16436&label=CurseForge&labelColor=%232D2C2C&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/farming-experience-tweaks)
