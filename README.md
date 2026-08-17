@@ -1,6 +1,7 @@
 # Create a Server
 
-Yeah, you might be here because the link is kinda broken, here's the new wiki! [How to Create a Server](https://axperty.github.io/farmingexperience/wiki/create_a_server.html)
+Yeah, you might be here because the link is kinda broken, here's the new wiki! [How to Create a Server](https://axperty.github.io/farmingexperience/wiki/create_a_server.html).
+
 This will be fixed soon, sorry!
 
 # Farming Experience
