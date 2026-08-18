@@ -3,7 +3,6 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 export default defineConfig({
   base: '/farmingexperience/',
-  srcExclude: ['farmingexperience.github.io/**', 'axperty.github.io/**'],
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
