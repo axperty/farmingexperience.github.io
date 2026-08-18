@@ -1,6 +1,6 @@
 {
   "name": "farmingexperience",
-  "version": "1.0.0",
+  "version": "26.08.18",
   "description": "Farming Experience is an adventure and farming based modpack that enhances vanilla Minecraft.",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,13 @@
     "minecraft",
     "modpack"
   ],
-  "author": "Axperty",
-  "license": "ISC",
-  "type": "module",
+   "author": "Axperty",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/axperty/farmingexperience/issues"
+  },
+  "homepage": "https://github.com/axperty/farmingexperience#readme",
   "devDependencies": {
     "vitepress": "^1.6.4",
     "vitepress-plugin-tabs": "^0.9.1",
